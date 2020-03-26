@@ -15,6 +15,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
   1. [Networking Questions](#network)
   1. [MySQL Questions](#mysql)
   1. [DevOps Questions](#devop)
+  1. [Possible Question](#Possible)
   1. [Fun Questions](#fun)
   1. [Demo Time](#demo)
   1. [Other Great References](#references)
@@ -251,6 +252,15 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * What are the important aspects of a system of continuous integration and deployment?
 * How would you enable network file sharing within AWS that would allow EC2 instances in multiple availability zones to share data?
 
+
+#### [[⬆]](#toc) <a name='Possible'>Possible Questions:</a>
+* A lot of questions on CI/CD with different scenarios (AWS and on-premises)
+* Security aspects and analysis used within CI and CD
+* A lot of Kubernetes questions (stateless and stateful set) + KOPS questions
+* Cloud scenarios like how to manage rolling DB changes in production
+* Terraform (probably 1 or 2 questions only)
+* SysOps Linux questions (probably only a few)
+
 #### [[⬆]](#toc) <a name='fun'>Fun Questions:</a>
 
 * A careless sysadmin executes the following command: ```chmod 444 /bin/chmod ``` - what do you do to fix this?
@@ -287,3 +297,6 @@ Some questions are 'borrowed' from other great references like:
 * https://github.com/darcyclarke/Front-end-Developer-Interview-Questions
 * https://github.com/kylejohnson/linux-sysadmin-interview-questions/blob/master/test.md
 * http://slideshare.net/kavyasri790693/linux-admin-interview-questions
+
+
+
